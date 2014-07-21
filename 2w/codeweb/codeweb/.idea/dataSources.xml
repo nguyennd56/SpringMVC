@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3680766457">
+    <data-source source="LOCAL" name="defaultPersistenceUnit" uuid="1c2be6ab-c742-439c-ade3-9198a5c15624">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost/mvc_sample</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>df9bdf98df99df9e</user-password>
+      <libraries>
+        <library>
+          <url>file://C:\Users\nguyennd\.m2\repository\postgresql\postgresql\9.1-901.jdbc4\postgresql-9.1-901.jdbc4.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
